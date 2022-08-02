@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+
+}
+button {
+    background-color: green;
+    color:white;
+}
+
+#app-container{
+    max-width: 500px;
+}
+
+.remove{
+    color: red;
+    font-weight: bold;
+    align-items: right;
+    
+}
+
+.done{
+    text-decoration: line-through;
+}
